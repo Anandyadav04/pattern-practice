@@ -6,8 +6,8 @@ public:
         int n = nums.size();
 
         sort(nums.begin(), nums.end());
-        int max_diff = INT_MAX;
-        int result_sum;
+        int result_sum = nums[0] + nums[1] + nums[2];
+        int max_diff = abs(result_sum - target);
 
         for (int i = 0; i < n -2; i++) {
             int left = i + 1;
