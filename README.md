@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anandyadav04/pattern-practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Anandyadav04/pattern-practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anandyadav04/pattern-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Anandyadav04/pattern-practice/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anandyadav04/pattern-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Anandyadav04/pattern-practice/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
