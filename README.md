@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anandyadav04/pattern-practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anandyadav04/pattern-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anandyadav04/pattern-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Anandyadav04/pattern-practice/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -35,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anandyadav04/pattern-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anandyadav04/pattern-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Anandyadav04/pattern-practice/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anandyadav04/pattern-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Anandyadav04/pattern-practice/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
