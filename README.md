@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anandyadav04/pattern-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anandyadav04/pattern-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Anandyadav04/pattern-practice/tree/master/0904-fruit-into-baskets) |
+| [3925-concatenate-array-with-reverse](https://github.com/Anandyadav04/pattern-practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anandyadav04/pattern-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Anandyadav04/pattern-practice/tree/master/0904-fruit-into-baskets) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Anandyadav04/pattern-practice/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
